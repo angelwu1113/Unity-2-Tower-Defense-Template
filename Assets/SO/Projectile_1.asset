@@ -9,14 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cbc98d3f84ad0438e807be03b7b26247, type: 3}
-  m_Name: Towe1
+  m_Script: {fileID: 11500000, guid: 86f5d3ce8fb1c4967966b22c6f2d3f35, type: 3}
+  m_Name: Projectile_1
   m_EditorClassIdentifier: 
-  TowerName: Fast
-  cost: 75
-  health: 50
-  attackCooldown: 0.5
-  color: {r: 0.41509432, g: 0.13510145, b: 0.13510145, a: 1}
+  damage: 50
+  speed: 25
+  size: 3
+  color: {r: 0.8301887, g: 0.38768244, b: 0.38768244, a: 1}
   sprite: {fileID: 21300000, guid: a522a8fbc90a54308b398a7b537c4f20, type: 3}
-  attackRange: 1
-  projectile: {fileID: 11400000, guid: c1f3aaad3cbca4258854b153c6a60a7e, type: 2}
