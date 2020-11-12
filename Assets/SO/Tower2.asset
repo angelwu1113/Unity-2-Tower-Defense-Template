@@ -18,5 +18,5 @@ MonoBehaviour:
   attackCooldown: 0.2
   color: {r: 0.5754717, g: 0.3013083, b: 0.3013083, a: 1}
   sprite: {fileID: 21300000, guid: ee78cffc7eeeb482ca81f20814a338c5, type: 3}
-  attackRange: 3
-  projectile: {fileID: 11400000, guid: c1f3aaad3cbca4258854b153c6a60a7e, type: 2}
+  attackRange: 100
+  projectile: {fileID: 11400000, guid: 5a75212ca5b7e4457b8ef50efdf695a0, type: 2}
